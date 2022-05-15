@@ -6,6 +6,7 @@ public class ProbandoPOnerGitFUERA {
 		// TODO Auto-generated method stub
 System.out.println("EL GIT LO PONEMOS FUERA DEL WORKSPACE");
 System.out.println("el gitignore, no sale como que se ha creado");
+System.out.println("aprovecho para hacer otra linea y luego poner label nueva");
 	}
 
 }
